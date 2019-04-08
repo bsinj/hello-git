@@ -1,1 +1,2 @@
-# hello-git My first commint to branch.
+# hello-git My first commit to branch.
+# second commit
